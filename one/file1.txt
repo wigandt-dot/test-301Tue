@@ -1,1 +1,3 @@
 "Lin1" 
+hello
+goodbye
